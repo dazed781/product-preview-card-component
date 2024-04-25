@@ -103,6 +103,8 @@ body {
   }
   .card img {
     border-radius: 0.5rem 0.5rem 0 0;
+    -o-object-fit: contain;
+       object-fit: contain;
   }
   .card .content {
     padding: 1.5rem;
